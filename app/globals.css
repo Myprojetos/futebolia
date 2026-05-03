@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-jakarta: 'Plus Jakarta Sans', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: #0A0A0A;
+  color: #F5F5F5;
+  font-family: var(--font-inter);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #0A0A0A; }
+::-webkit-scrollbar-thumb { background: #00A859; border-radius: 3px; }
+
+/* Prose overrides para artigos */
+.prose { max-width: none; }
+.prose img { border-radius: 12px; }
+.prose a { text-decoration: underline; text-underline-offset: 3px; }
+.prose h2 { padding-top: 1rem; border-top: 1px solid rgba(245,245,245,0.08); }
+
+/* Afiliado CTA box */
+.cta-afiliado {
+  background: rgba(0,168,89,0.08);
+  border: 1px solid rgba(0,168,89,0.3);
+  border-radius: 12px;
+  padding: 24px;
+  margin: 32px 0;
+}
