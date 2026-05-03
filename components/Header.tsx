@@ -19,7 +19,7 @@ export default function Header() {
 
         {/* Logo */}
         <Link href="/" className="font-heading font-extrabold text-2xl tracking-tight">
-          futebo<span className="text-verde">lia</span>
+          futebol<span className="text-verde">ia</span>
         </Link>
 
         {/* Nav desktop */}

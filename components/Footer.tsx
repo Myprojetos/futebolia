@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="flex flex-col gap-3">
             <span className="font-heading font-extrabold text-xl">
-              futebo<span className="text-verde">lia</span>
+              futebol<span className="text-verde">ia</span>
             </span>
             <p className="font-body text-sm text-muted leading-relaxed">
               Inteligência Artificial aplicada à Copa do Mundo 2026.
@@ -55,9 +55,13 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-border pt-6 flex flex-col md:flex-row justify-between items-center gap-2 text-xs text-muted font-body">
+        <div className="border-t border-border pt-6 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-muted font-body">
           <span>© {new Date().getFullYear()} Futebolia. Todos os direitos reservados.</span>
-          <span>futebolia.com.br</span>
+          <div className="flex items-center gap-4">
+            <Link href="/politica-de-privacidade" className="hover:text-verde transition-colors">Privacidade</Link>
+            <Link href="/disclaimer" className="hover:text-verde transition-colors">Disclaimer</Link>
+            <span>futebolia.com.br</span>
+          </div>
         </div>
       </div>
     </footer>
