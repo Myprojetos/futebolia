@@ -3,7 +3,7 @@ title: "Micro-mercados de apostas na Copa 2026: como lucrar onde a maioria não 
 date: "2026-05-03"
 categoria: "iGaming"
 excerpt: "As casas de apostas ajustam odds de resultado em segundos. Mas nos micro-mercados — escanteios, cartões, chutes ao gol — a janela de valor fica aberta muito mais tempo. Veja como usar IA para encontrar essas oportunidades."
-coverImage: "/images/micro-mercados-copa-2026.jpg"
+coverImage: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&q=80"
 tags: ["micro-mercados de apostas", "player props Copa 2026", "odds ao vivo", "Copa 2026", "apostas esportivas IA"]
 ---
 

@@ -3,7 +3,7 @@ title: "Copa 2026: datas, grupos, cidades-sede e tudo que você precisa saber"
 date: "2026-05-03"
 categoria: "Viral"
 excerpt: "A Copa do Mundo de 2026 será a maior da história — 48 seleções, 3 países, 16 cidades. Brasil, Argentina e Portugal estão confirmados. Veja o guia completo com datas, formato, cidades-sede e o que esperar do torneio."
-coverImage: "/images/copa-2026-guia.jpg"
+coverImage: "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&q=80"
 tags: ["Copa 2026", "Copa do Mundo 2026", "Copa 2026 EUA México Canadá", "Brasil Copa 2026", "datas Copa 2026"]
 ---
 

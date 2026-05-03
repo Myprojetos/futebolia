@@ -3,7 +3,7 @@ title: "5 ferramentas de IA gratuitas para pequenas empresas venderem mais na Co
 date: "2026-05-03"
 categoria: "PMEs"
 excerpt: "A Copa 2026 vai movimentar mais de R$8 bilhões em consumo no Brasil segundo a FGV. Pequenas empresas que usarem IA para marketing, atendimento e produção de conteúdo vão capturar uma fatia desproporcional desse mercado. Veja as 5 ferramentas que já estão funcionando."
-coverImage: "/images/ferramentas-ia-pmes-copa.jpg"
+coverImage: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80"
 tags: ["ferramentas de IA para pequenas empresas", "marketing digital Copa 2026", "IA para negócios", "PMEs Copa 2026"]
 ---
 

@@ -3,7 +3,7 @@ title: "Hotéis Copa 2026: como encontrar os melhores preços com IA antes que e
 date: "2026-05-03"
 categoria: "Turismo"
 excerpt: "Os hotéis nas cidades-sede da Copa 2026 já registram alta de até 340% em relação aos preços normais. Mas ferramentas de IA conseguem identificar janelas de preço que os algoritmos das OTAs ainda não fecharam. Veja como usar isso a seu favor."
-coverImage: "/images/hoteis-copa-2026.jpg"
+coverImage: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80"
 tags: ["viagem Copa 2026 com IA", "hotéis Copa 2026", "turismo inteligente", "Copa 2026 EUA", "viagem barata Copa"]
 ---
 
